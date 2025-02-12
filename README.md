@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project is a simple electron movement simulator built using C++ and the SFML graphics library. It aims to visually represent the movement of electrons within a basic circuit environment.  While currently simplified, the project provides a foundation for exploring and simulating fundamental concepts in electromagnetism.
-
+This project is a simple electron movement simulator built using C++ and the SFML graphics library. It aims to visually represent the movement of electrons within a basic circuit environment.
 ## Features
 
 *   **Visual Simulation:** Displays moving electrons within a simulated space.
